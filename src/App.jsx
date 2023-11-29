@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 import Home from './Components/Home'
-import Login from './components/Login'
+// import Login from './components/Login'
 import NavPetit from './Components/NavPetit'
 import Sidebar from './Components/Sidebar'
 import StockEntrant from './Components/StockEntrant'
@@ -19,7 +19,7 @@ function App() {
      <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home />} />
-          <Route path='/login' element={<Login />} />
+          {/* <Route path='/login' element={<Login />} /> */}
           <Route path='/onglet' element={<NavPetit />} />
           <Route path='/sidebar' element={<Sidebar />} />
           <Route path='/stockEntrant' element={<StockEntrant />} />
