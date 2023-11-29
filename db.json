@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "dates": [
+    {
+      "dates": "66",
+      "id": "jlsk92z"
+    }
+  ],
+  "vente": [
+    {
+      "nom_article": "mais",
+      "desc": "blanc",
+      "quant": "blanc",
+      "prix": "100",
+      "total_partiel": "1100"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "client": "John"
+    },
+    {
+      "id": 2,
+      "client": "Jean"
+    },
+    {
+      "client": "Bernard",
+      "id": 3
+    },
+    {
+      "client": "koffi",
+      "id": 4
+    },
+    {
+      "client": "koffi",
+      "id": 5
+    }
+  ],
+  "articles": [
+    {
+      "nom_article": "eee",
+      "desc": "rrr",
+      "quantite": "3",
+      "prix_vente": "5",
+      "dates": "2023-10-24",
+      "id": 3
+    },
+    {
+      "nom_article": "riz",
+      "desc": "blanc",
+      "quantite": "20",
+      "prix_vente": "9500",
+      "dates": "2023-10-29",
+      "id": 4
+    },
+    {
+      "nom_article": "spagheti",
+      "desc": "gros grain",
+      "quantite": "12",
+      "prix_vente": "600",
+      "dates": "2023-11-23",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nom_article": "bonbons",
+      "desc": "rouges",
+      "quantite": "500",
+      "prix_vente": "300"
+    },
+    {
+      "nom_article": "wwww wwwwww wwwwwww",
+      "desc": "cccccc ccccc ccccc",
+      "quantite": "200",
+      "prix_vente": "30",
+      "dates": "2023-11-27",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.pageCouleur {
+    background: linear-gradient(28deg, #9074CA 7.62%, rgba(121, 87, 193, 0.33) 50.42%, #977CCD 93.2%);
+}
+
+.bannerCouleur{
+    background: linear-gradient(187deg, #9074CA -1.21%, rgba(144, 116, 202, 0.00) 78.63%);
+}
+.form{
+    background: rgba(101, 138, 140, 0.23);
+}
+
+.active{
+    background-color: white !important;
+    color: #4707CE !important;
+}
+
+.ajoutStock{
+    background: #CCC5C5;
+    box-shadow: 1px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
