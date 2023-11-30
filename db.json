@@ -45,21 +45,6 @@
   ],
   "articles": [
     {
-      "id": 6,
-      "nom_article": "bonbons",
-      "desc": "rouges",
-      "quantite": "500",
-      "prix_vente": "300"
-    },
-    {
-      "nom_article": "wwww wwwwww wwwwwww",
-      "desc": "cccccc ccccc ccccc",
-      "quantite": "200",
-      "prix_vente": "30",
-      "dates": "2023-11-27",
-      "id": 7
-    },
-    {
       "nom_article": "jus",
       "desc": "rush",
       "quantite": "80",
