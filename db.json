@@ -45,14 +45,6 @@
   ],
   "articles": [
     {
-      "nom_article": "riz",
-      "desc": "blanc",
-      "quantite": "20",
-      "prix_vente": "9500",
-      "dates": "2023-10-29",
-      "id": 4
-    },
-    {
       "nom_article": "spagheti",
       "desc": "gros grain",
       "quantite": "12",
@@ -90,6 +82,14 @@
       "prix_vente": "200",
       "dates": "2023-11-30",
       "id": 9
+    },
+    {
+      "nom_article": "RR",
+      "desc": "YY",
+      "quantite": "8",
+      "prix_vente": "90",
+      "dates": "2023-11-03",
+      "id": 10
     }
   ]
 }

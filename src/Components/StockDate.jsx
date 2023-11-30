@@ -92,7 +92,7 @@ function StockDate() {
       console.log(addData)
       alert("ajouter avec succes")
       window.location.reload()
-      navigate("/stockEntrant")
+      // navigate("/stockEntrant")
     }).catch((err)=>{
       console.log(err)
     })
