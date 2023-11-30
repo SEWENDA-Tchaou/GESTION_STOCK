@@ -3,7 +3,9 @@
     "builds": [
       {
         "src": "/(.*)",
-        "use": "@vercel/node"
+        "config": {
+            "includeFiles": ["db.json"]
+        }
       }
     ],
     "routes": [
