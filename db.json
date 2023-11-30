@@ -45,13 +45,6 @@
   ],
   "articles": [
     {
-      "id": 5,
-      "nom_article": "spaghetis",
-      "desc": "gros grain",
-      "quantite": "120",
-      "prix_vente": "600"
-    },
-    {
       "id": 6,
       "nom_article": "bonbons",
       "desc": "rouges",
@@ -88,6 +81,14 @@
       "desc": "yy",
       "quantite": "8",
       "prix_vente": "90"
+    },
+    {
+      "nom_article": "ui",
+      "desc": "uix",
+      "quantite": "7",
+      "prix_vente": "70",
+      "dates": "2023-12-01",
+      "id": 11
     }
   ]
 }

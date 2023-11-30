@@ -54,7 +54,7 @@ function StockDate() {
     //   })
     // },[])
   const handleEdit = ()=>{
-    // navigate("/stockedit/"+id)
+    navigate("/stockedit/"+id)
     window.location.reload()
 
   }
