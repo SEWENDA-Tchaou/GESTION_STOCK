@@ -1,5 +1,5 @@
 import GrandeNavbar from "../Components/GrandeNavbar"
-// import AjoutStock from "./AjoutStock"
+import AjoutStock from "./AjoutStock"
 import NavPetit from "./NavPetit"
 import Sidebar from "./Sidebar"
 import Footer from "./Footer"
@@ -94,7 +94,7 @@ function StockDate() {
       console.log(addData)
       alert("ajouter avec succes")
       window.location.reload()
-      // navigate("/stockEntrant")
+      navigate("/stockEntrant")
     }).catch((err)=>{
       console.log(err)
     })
