@@ -53,8 +53,10 @@ function StockDate() {
     //     console.log(err)
     //   })
     // },[])
-  const handleEdit = (id)=>{
-    navigate("/stockedit/"+id)
+  const handleEdit = ()=>{
+    // navigate("/stockedit/"+id)
+    window.location.reload()
+
   }
 
   const handleDelete = (id)=>{

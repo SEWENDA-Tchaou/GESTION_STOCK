@@ -45,12 +45,11 @@
   ],
   "articles": [
     {
-      "nom_article": "spagheti",
+      "id": 5,
+      "nom_article": "spaghetis",
       "desc": "gros grain",
-      "quantite": "12",
-      "prix_vente": "600",
-      "dates": "2023-11-23",
-      "id": 5
+      "quantite": "120",
+      "prix_vente": "600"
     },
     {
       "id": 6,
@@ -84,12 +83,11 @@
       "id": 9
     },
     {
+      "id": 10,
       "nom_article": "RR",
-      "desc": "YY",
+      "desc": "yy",
       "quantite": "8",
-      "prix_vente": "90",
-      "dates": "2023-11-03",
-      "id": 10
+      "prix_vente": "90"
     }
   ]
 }
