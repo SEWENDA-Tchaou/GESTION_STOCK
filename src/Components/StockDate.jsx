@@ -1,5 +1,5 @@
 import GrandeNavbar from "../Components/GrandeNavbar"
-import AjoutStock from "./AjoutStock"
+// import AjoutStock from "./AjoutStock"
 import NavPetit from "./NavPetit"
 import Sidebar from "./Sidebar"
 import Footer from "./Footer"
@@ -53,10 +53,8 @@ function StockDate() {
     //     console.log(err)
     //   })
     // },[])
-  const handleEdit = ()=>{
+  const handleEdit = (id)=>{
     navigate("/stockedit/"+id)
-    window.location.reload()
-
   }
 
   const handleDelete = (id)=>{
